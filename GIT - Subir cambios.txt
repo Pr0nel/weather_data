@@ -2,13 +2,17 @@
 
 2do En git bash
 
-git pull :Trae la ultima actualizacion del repo en github
+git pull :Trae la ultima actualizacion del repo en GITHUB que han hecho los otros desarrolladores.
 
-git add --all :Sube a un area previa todas las modificaciones en el local
+git add --all :Sube a un area previa (staging area) todas las modificaciones en el repository local.
 
-git commit -m "descripcion" :Confirmacion del cambio que se va a subir y se pone una etiqueta "descripcion"
+git commit -m "descripcion" :Confirmacion del cambio que se va a subir (Se va a pasar del staging area al repository) y se pone una etiqueta "descripcion".
+	
+	git config --global user.email "you@example.com" :Asocia el correo del usuario que ha hecho los cambios en el código
+	
+	git config --global user.name "Your name" :Asocia el nombre del usuario
 
-git push origin main :Manda a la nube (en GITHUB) en la rama llamada main
+git push origin main :Manda a la nube (en GITHUB) en la rama llamada main. (Se usa para subir a un repository remoto)
 
 Con esto ya se subio correctamente los cambios en GITHUB
 
@@ -19,3 +23,7 @@ Existen 3 fases:
 Rojo (borrador) recien se esta editando
 Verde (previo a confirmar cambios) ya se hizo git add
 Sin color (ya se sincronizo) local y nube tienen la misma informacion
+
+git init :Le vamos a decir al SO que vamos a iniciar un proyecto nuevo en git.
+
+git clone :Hace una copia desde el servidor central donde está el código a tu computador.

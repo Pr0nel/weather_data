@@ -1,5 +1,4 @@
-Unnamed: 0,Unnamed: 1,Temp,Solar
-Date,Time,Out,Rad.
+Date,Time,Temp_out,Solar_Rad
 13/10/19,11:00,18.3,112
 13/10/19,11:10,18.1,93
 13/10/19,11:20,18.2,95
