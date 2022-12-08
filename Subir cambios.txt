@@ -1,0 +1,21 @@
+1ero En repo Github verificar
+
+2do En git bash
+
+git pull :Trae la ultima actualizacion del repo en github
+
+git add --all :Sube a un area previa todas las modificaciones en el local
+
+git commit -m "descripcion" :Confirmacion del cambio que se va a subir y se pone una etiqueta "descripcion"
+
+git push origin main :Manda a la nube (en GITHUB) en la rama llamada main
+
+Con esto ya se subio correctamente los cambios en GITHUB
+
+3ro Verificar los cambios en la nube o local
+
+git status :Estado del repo
+Existen 3 fases: 
+Rojo (borrador) recien se esta editando
+Verde (previo a confirmar cambios) ya se hizo git add
+Sin color (ya se sincronizo) local y nube tienen la misma informacion
