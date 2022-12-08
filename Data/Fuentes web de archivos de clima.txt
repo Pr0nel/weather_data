@@ -1,0 +1,21 @@
+No especifican precio
+
+https://www.ibm.com/products/weather-company-data-packages/pricing
+
+https://www.meteomatics.com/en/eshop
+
+https://weathersource.com/products/onpoint-api/
+
+https://www.athenium.com/products/api/
+
+Si especifican precio
+
+https://www.meteoblue.com/en/historyplus?b2b=0&currency=USD&country=PE#pricing (30 añor de data. 310.5$ por tres lugares, para un lugar 115$)
+
+https://meteonorm.com/en/product/meteonorm-software (2658.6 soles la licencia de software)
+
+
+https://solcast.com/pricing/#historical (87$ por año descargado)
+(apoyo explícito a investigadores o estudiantes)
+
+
