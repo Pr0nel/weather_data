@@ -1,4 +1,6 @@
 Papers_and_books/
+.ipynb_checkpoints/
 *.exe.stackdump
 *.exe
+*.ini
 
