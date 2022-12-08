@@ -1,1 +1,4 @@
-/Papers_and_books
+Papers_and_books/
+*.exe.stackdump
+*.exe
+
