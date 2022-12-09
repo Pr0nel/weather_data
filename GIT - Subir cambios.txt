@@ -33,5 +33,3 @@ git init :Le vamos a decir al SO que vamos a iniciar un proyecto nuevo en git.
 git clone :Hace una copia desde el servidor central donde está el código a tu computador.
 
 git log :Para ver los commit que hemos creado.
-
-git 
