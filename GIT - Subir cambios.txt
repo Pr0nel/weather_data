@@ -4,7 +4,11 @@
 
 git pull :Trae la ultima actualizacion del repo en GITHUB que han hecho los otros desarrolladores.
 
-git add --all :Sube a un area previa (staging area) todas las modificaciones en el repository local.
+git add [--all | -A] :Sube a un area previa (staging area) todas las modificaciones en el repository local.
+	
+	git add . :Sube los nuevos archivos y modificaciones, sin eliminaciones (en el directorio actual y sus subdirectorios).
+	
+	git add [-u | --update] :Sube las modificaciones y eliminaciones, sin nuevos archivos.
 
 git commit -m "descripcion" :Confirmacion del cambio que se va a subir (Se va a pasar del staging area al repository) y se pone una etiqueta "descripcion".
 	
@@ -27,3 +31,7 @@ Sin color (ya se sincronizo) local y nube tienen la misma informacion
 git init :Le vamos a decir al SO que vamos a iniciar un proyecto nuevo en git.
 
 git clone :Hace una copia desde el servidor central donde está el código a tu computador.
+
+git log :Para ver los commit que hemos creado.
+
+git 
