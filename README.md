@@ -4,7 +4,7 @@ Este proyecto contiene un Jupyter Notebook para entrenar un modelo de predicció
 
 ## Estructura del Proyecto
 
-- `Data/`: Contiene el conjunto de datos sin procesar (`SolarPrediction.csv`) utilizado para entrenar el modelo.
+- `Data/`: Contiene el conjunto de datos sin procesar utilizado para entrenar el modelo.
 - `Notebooks/`: Contiene Jupyter Notebooks para la exploración de datos y el entrenamiento del modelo.
 - `1.0 Exploracion Dataset.ipynb`: Notebook para la exploración y visualización inicial de datos.
 - `2.0 Entrenamiento del modelo.ipynb`: Notebook para el preprocesamiento de datos, el entrenamiento del modelo y el almacenamiento del modelo entrenado.
